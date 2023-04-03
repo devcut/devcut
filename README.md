@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **new website of my company**
 
-- 👨‍💻 All of my projects are available at [devcut.github.io](devcut.github.io)
+- 👨‍💻 All of my projects are available at [devcut.github.io](https://devcut.github.io)
 
 - 📫 How to reach me **guillaume.egloff@gmail.com**
 
